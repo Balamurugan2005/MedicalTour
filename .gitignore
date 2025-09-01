@@ -13,7 +13,11 @@ jspm_packages/
 # Build outputs
 dist/
 build/
+.next/
+out/
 .cache/
+.turbo/
+.vercel/
 
 # Runtime data
 pids
@@ -41,6 +45,6 @@ coverage/
 *.sln
 *.sw?
 
-# OS files
+# OS/system files
 .DS_Store
 Thumbs.db
