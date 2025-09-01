@@ -17,10 +17,15 @@
     "cost-comparison",
     "healthcare"
   ],
-  "author": "",
+  "author": "Balamurugan",
   "license": "MIT",
   "devDependencies": {
     "concurrently": "^8.2.2"
-  }
+  },
+  "dependencies": {
+  "next": "latest",
+  "react": "latest",
+  "react-dom": "latest"
 }
 
+}
